@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/DataBaseWithJava/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/sqljdbc_12.4.2.0_enu/sqljdbc_12.4/enu/jars/mssql-jdbc-12.4.2.jre8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/sqljdbc_12.4.2.0_enu/sqljdbc_12.4/enu/jars/mssql-jdbc-12.4.2.jre8-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/sqljdbc_12.4.2.0_enu/sqljdbc_12.4/enu/jars/mssql-jdbc-12.4.2.jre8-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/sqljdbc_12.4.2.0_enu/sqljdbc_12.4/enu/jars/mssql-jdbc-12.4.2.jre11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/sqljdbc_12.4.2.0_enu/sqljdbc_12.4/enu/jars/mssql-jdbc-12.4.2.jre11-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/dell/Downloads/sqljdbc_12.4.2.0_enu/sqljdbc_12.4/enu/jars/mssql-jdbc-12.4.2.jre11-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
